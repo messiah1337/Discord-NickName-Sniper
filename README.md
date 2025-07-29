@@ -20,10 +20,15 @@ A username sniper is a tool that automatically detects when a desired Discord us
 
 ## <a id="Features"></a>🛠 » Features
 1- Adding multiple usernames (Free)
+
 2- Using multiple tokens (Free)
+
 2- Low ms for faster experience (Free)
+
 3- Anti IP And Token Ban (Premium)
+
 4- Instant webhook notification (Free)
+
 5- 1ms for lower and faster Experience (Premium)
 
 ## <a id="How To Use"></a>📜 » How To Use
